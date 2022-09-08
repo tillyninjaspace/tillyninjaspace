@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tillyninjaspace
 - 👀 I’m interested in building React projects
-- 🌱 I’m currently learning AngularJS with Programming with Mosh's Tutorial
+- 🌱 I’m currently working part-time.
 - See my completed projects: https://gracious-mcnulty-e733ac.netlify.app
 
 <!---
