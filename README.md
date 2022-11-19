@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tillyninjaspace
 - 👀 I’m interested in tech, web development and seo.
-- 🌱 I completed my Fullstack Academy bootcamp in Dec 2020 the Data Analytics 6 month program by Google in Nov 2022.
+- 🌱 I completed my 6 month Fullstack Academy bootcamp in Dec 2020 and the Data Analytics 6 month program by Google in Nov 2022.
 - See my completed projects: https://tillywright.com
 
 <!---
