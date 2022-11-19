@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tillyninjaspace
 - 👀 I’m interested in building React projects
-- 🌱 I’m currently learning R programming through the Data Analytics program by Google.
+- 🌱 I completed my Fullstack Academy bootcamp in Dec 2020 the Data Analytics 6 month program by Google in Nov 2022.
 - See my completed projects: https://tillywright.com
 
 <!---
